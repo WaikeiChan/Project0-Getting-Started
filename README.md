@@ -3,12 +3,27 @@ Project 0 Getting Started
 
 **University of Pennsylvania, CIS 565: GPU Programming and Architecture, Project 0**
 
-* (TODO) YOUR NAME HERE
-  * (TODO) [LinkedIn](), [personal website](), [twitter](), etc.
-* Tested on: (TODO) Windows 22, i7-2222 @ 2.22GHz 22GB, GTX 222 222MB (Moore 2222 Lab)
+* Weiqi Chen
+  LinkedIn: https://www.linkedin.com/in/weiqi-ricky-chen-2b04b2ab/
 
-### (TODO: Your README)
+* Tested on personal computer: Windows 10, i7-8750 @ 2.21GHz 16GB, GTX 1050 Compute Capability 6.1
 
-Include screenshots, analysis, etc. (Remember, this is public, so don't put
-anything here that you don't want to share with the world.)
+### Screenshots
+
+Working OpenGL
+
+![](images/webgl.png)
+
+
+Modification Test
+
+![](images/1.png)
+
+Analysis
+
+![](images/analysis.png)
+
+Nsight Debugging Test
+
+![](images/info.png)
 
